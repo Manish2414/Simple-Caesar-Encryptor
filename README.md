@@ -32,14 +32,14 @@
 
 <h1>Contact me</h1>
 
+### Linkedin
+https://www.linkedin.com/in/manishgiri24
+
 ### YouTube
 https://www.youtube.com/manishtechnical24
 
 ### Instagram
 https://www.instagram.com/manishgiri_24
-
-### Facebook
-https://www.facebook.com/techieworld24
 
 ### GitHub
 https://www.github.com/manish2414
